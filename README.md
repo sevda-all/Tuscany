@@ -1,3 +1,3 @@
 # Tuscany
 
-https://sevda-all.github.io/tuscany/
+https://sevda-all.github.io/Tuscany/
